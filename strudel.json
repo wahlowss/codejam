@@ -1,11 +1,6 @@
 {
-	"_base": "https://melaniehuang.github.io/codejamassets/",
-	"glass": [
-		"airy-bow.wav",
-		"goblet-bow.wav",
-		"improv.wav"
-	],
-	"ambient": [
-		"ambient-arp.wav"
+	"_base": "https://wahlowss.github.io/codejam/",
+	"shabda": [
+		"4_days_ago.wav"
 	]
 }
