@@ -1,7 +1,7 @@
 {
 	"_base": "https://wahlowss.github.io/codejam/",
 	"speak": [
-		"goodbye"
+		"goodbye.wav"
 	],
 	"sounds": [
 		"merri.wav",
