@@ -7,5 +7,13 @@
 	"sounds": [
 		"merri.wav",
 		"altosax.wav"
+	],
+	"hum": [
+		"/Cphryg/hum-1.wav",
+		"/Cphryg/hum-2.wav",
+		"/Cphryg/dudu-1.wav"
+	],
+	"string": [
+		"/Cphryg/guitar.wav"
 	]
 }
