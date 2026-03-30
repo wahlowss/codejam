@@ -1,6 +1,7 @@
 {
 	"_base": "https://wahlowss.github.io/codejam/",
 	"speak": [
+		"listen.wav",
 		"goodbye.wav"
 	],
 	"sounds": [
