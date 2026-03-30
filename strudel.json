@@ -1,9 +1,10 @@
 {
 	"_base": "https://wahlowss.github.io/codejam/",
-	"speaking": [
-		"4-days-ago.wav"
+	"speak": [
+		"goodbye"
 	],
 	"sounds": [
-		"merri.wav"
+		"merri.wav",
+		"altosax.wav"
 	]
 }
