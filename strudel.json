@@ -1,8 +1,12 @@
 {
 	"_base": "https://wahlowss.github.io/codejam/",
 	"speak": [
+		"goodbye.wav",
 		"listen.wav",
-		"goodbye.wav"
+		"/speech/ha-ha-ha.wav",
+		"/speech/hahaha2.wav",
+		"/speech/canthismomentbejoyous.wav"
+
 	],
 	"sounds": [
 		"merri.wav",
