@@ -25,5 +25,8 @@
 		"/alan/can_you_become_weightless_here.wav",
 		"/alan/it is easy to stand still.wav",
 		"/alan/whydoyoufeelsoheavy.wav"
+	],
+	"samples": [
+		"samples/marigold"
 	]
 }
