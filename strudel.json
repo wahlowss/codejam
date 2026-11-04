@@ -27,6 +27,7 @@
 		"/alan/whydoyoufeelsoheavy.wav"
 	],
 	"samples": [
-		"samples/marigold"
+		"/samples/everything.wav",
+		"/samples/footsteps.wav"
 	]
 }
