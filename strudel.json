@@ -21,13 +21,15 @@
 		"/Cphryg/Dbmaj7.wav"
 	],
 	"alan": [
-		"/alan/how does your head look to your eyes.wav",
+		"/alan/how does your head look to your eyes_1.wav",
 		"/alan/can_you_become_weightless_here.wav",
 		"/alan/it is easy to stand still.wav",
 		"/alan/whydoyoufeelsoheavy.wav"
 	],
 	"algorave": [
 		"/algorave/everything.wav",
-		"/algorave/footsteps.wav"
+		"/algorave/footsteps.wav",
+		"/algorave/listen.wav",
+		"/algorave/merri.wav"
 	]
 }
