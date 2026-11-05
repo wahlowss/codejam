@@ -26,8 +26,8 @@
 		"/alan/it is easy to stand still.wav",
 		"/alan/whydoyoufeelsoheavy.wav"
 	],
-	"samples": [
-		"/samples/everything.wav",
-		"/samples/footsteps.wav"
+	"algorave": [
+		"/algorave/everything.wav",
+		"/algorave/footsteps.wav"
 	]
 }
