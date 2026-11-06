@@ -30,6 +30,14 @@
 		"/algorave/everything.wav",
 		"/algorave/footsteps.wav",
 		"/algorave/listen.wav",		
-		"/algorave/merri.wav"
+	],
+	"chimes": [ 
+		"/chimes/chimes-mostly.wav",
+		"/chimes/chimes-louder.wav",
+		"/chimes/chimes.wav",
+		"/chimes/chimes-guitar.wav",
+	],
+	"marigold": [
+		"/marigold/marigold.1.wav"
 	]
 }
