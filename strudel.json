@@ -39,5 +39,10 @@
 	],
 	"marigold": [
 		"/marigold/marigold.1.wav"
+	],
+	"worms":[
+		"/worms/worms-intro.wav",
+		"/worms/worms-out.wav",
+		"/worms/worms-outtro.wav"
 	]
 }
