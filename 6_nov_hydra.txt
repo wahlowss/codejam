@@ -1,0 +1,42 @@
+//sampletown https://flok.cc/s/afraid-indigo-egret-eed93a3e
+
+await loadScript("https://cdn.jsdelivr.net/gh/geikha/hyper-hydra@latest/hydra-gif.js")
+await loadScript("https://cdn.jsdelivr.net/gh/geikha/hyper-hydra@latest/hydra-src.js")
+await loadScript("https://cdn.jsdelivr.net/gh/geikha/hyper-hydra@latest/hydra-text.js")
+
+hydraText.font = "arial"
+hydraText.linewidth = "0.01%"
+str = "inside the worm's belly..."
+str1 = "falling"
+str2 = "into"
+str3 = "the"
+str4 = "mud's"
+str5 = "swirl"
+
+
+s0.initVideo('https://mysteriouscreature-afk.github.io/code-jam-samples/bamboo1.mp4')
+
+src(s0)
+.scale(2)
+
+.mult(osc(2,0.03,0.001))
+ .layer(text(str)
+       .modulate(o0,0.05).scrollX(0.01,0.03))
+    // 
+  .colorama(-0.5,-0.6,0.2,0.4,0.9,-0.01)
+   .luma(0.5)
+  //.invert()
+  //.scrollY(0, 0.1)
+  //.repeat()
+.add(text(str1).modulate(o0,0.01,0.1).scrollX(0.1,0.06))
+//.blend(strokeText(str2).modulate(o0,0.01,0.1).scrollY(-0.1,0.09))
+.add(text(str3).modulate(o0,0.01,0.1).scrollX(-0.1,0.1))
+//.blend(text(str4).modulate(o0,0.01,0.1).scrollY(-0.1,0.3))
+.add(text(str5).modulate(o0,0.01,0.1).scrollY(0.1,0.3))
+
+
+
+ .invert()
+
+
+.out()
