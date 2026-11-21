@@ -44,5 +44,8 @@
 		"/worms/worms-intro.wav",
 		"/worms/worms-out.wav",
 		"/worms/worms-outtro.wav"
+	],
+	"flux":[
+		"/flux/aus_birds.wav"
 	]
 }
